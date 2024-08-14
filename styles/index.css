@@ -121,3 +121,8 @@ header {
     border-radius: 10px;
     margin: 130px 0;
 }
+
+main{
+    max-width: 1150px;
+    margin: 0 auto;
+}
