@@ -202,4 +202,24 @@ footer{
     display: flex;
     background-color: antiquewhite;
     padding: 130px 200px;
+    gap: 100px;
 }
+
+.footer-column{
+    width: 700px;
+}
+
+.social-links a{
+margin-right: 20px;
+}
+ .contact input[type="Text"],input[type="email"], textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: darkgray;
+    background: white;
+    border-radius: 5px;
+    border: 0;
+    width: 80%;
+ }
+
